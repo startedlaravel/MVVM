@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "376029699610",
+    "project_id": "xbrazzers-player",
+    "storage_bucket": "xbrazzers-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376029699610:android:2f17e65665d45c4804bba3",
+        "android_client_info": {
+          "package_name": "com.example.mvvmhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376029699610-1355gbmk5e0hmjv2vetm1ntgrb2c8cc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mvvmhelper",
+            "certificate_hash": "3f9b9a12dd3bc707c71a854e9df66644e40b0835"
+          }
+        },
+        {
+          "client_id": "376029699610-cfb49htu3qht86qqbikkv82i7mr3vu7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mvvmhelper",
+            "certificate_hash": "9244adeb6388c4fb8014cd63b382d0b631930547"
+          }
+        },
+        {
+          "client_id": "376029699610-dsomphirbi5p2o29mt0j0tf96v20efc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj1xDF-hKCZvS2msOQSGjsvzZNotjIQr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376029699610-dsomphirbi5p2o29mt0j0tf96v20efc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
